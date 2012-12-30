@@ -27,7 +27,7 @@ To create a new project derived from the boilerplate: ::
 
     ~/Projects $ git clone https://github.com/splaice/py-bootstrap.git
     ~/Projects $ cd py-bootstrap
-    ~/Projects/py-bootstrap $ bin/boostrap.sh project ~/Projects/Project
+    ~/Projects/py-bootstrap $ bin/bootstrap.sh project ~/Projects/Project
 
 Now you should have a reasonable working python project. You can set it up in development mode using the `Makefile`
 
